@@ -1,0 +1,14 @@
+ul{
+    list-style-type: none;
+    /* text-decoration: none!important; */
+}
+.listyle li{
+    margin-left: 75px;
+   padding: 10px 5px;
+   list-style-type: none;
+}
+.custom{
+    display: block;
+    width: 60px;
+    
+}

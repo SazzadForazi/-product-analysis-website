@@ -1,0 +1,23 @@
+img{
+    width: 550px;
+    height: 300px;
+}
+.home{
+    margin-top: 20px;
+}
+.review-btn{
+    margin: 10px 0;
+    height: 20px;
+    width: 30px;
+    padding: 20px 80px;
+}
+.link{
+    color: black;
+    margin-left: -14px;
+}
+.link:hover{
+    color: aliceblue;
+}
+/* <button type="button" class="btn btn-primary">
+<CustomLink to='/reviews' className="nav-CustomLink active custom my-4" aria-current="page">View All reviews</CustomLink>
+</button> */
