@@ -1,8 +1,8 @@
 ## Laptop Reviews
 
-- user use easily
+- user can used easily
 - attached revew Section
 - Main theame is laptop Review
-- include Dashboard
+- included Dashboard
 
 ## [Live](https://precious-gumdrop-da9875.netlify.app/dashBoard)
