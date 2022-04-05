@@ -5,4 +5,4 @@
 - Main theame is laptop Review
 - included Dashboard
 
-## [Live](https://precious-gumdrop-da9875.netlify.app/dashBoard)
+## [Live](https://precious-gumdrop-da9875.netlify.app/)
